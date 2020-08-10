@@ -18,6 +18,7 @@ To connect with me,
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
 [![Years Badge](https://badges.pufler.dev/years/PiyushKe)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/PiyushKe)](https://badges.pufler.dev)
+[![Github_Followers](https://img.shields.io/github/followers/Piyushke.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Piyushke?tab=followers)
 </p>
 
 ---
@@ -38,7 +39,7 @@ My Tech Stack :<p align = "center">
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20-%23AF9900.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 
 ---
