@@ -16,8 +16,8 @@ To connect with me,
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/PiyushKe)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/PiyushKe)](https://badges.pufler.dev)
 </p>
 
 ---
@@ -84,12 +84,3 @@ HTML                     1 repos             ██░░░░░░░░░�
 Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
-
-
-
-<!--END_SECTION:waka-->
-
-
-<p align = "center">
-  <b>⭐Star and Fork this repo to try new feature! (Check Wiki for stats card details)</b>
-</p>
