@@ -1,11 +1,11 @@
 ## Hi 👋 I am Piyush!
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++, Plotly-Dash, PyTorch, and  AWS. I play football and design in photoshop. Also, I have just started tech-blogging! 
+I am CS undergrad student at GLA university mathura,currently I am in my 2<sup>nd</sup> year.
 
-- 👨🏽‍💻 Currently working in deep learning, competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://PiyushKe.github.io/) for complete background and contact.
 
 To connect with me,
 
@@ -15,7 +15,7 @@ To connect with me,
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
 [![Years Badge](https://badges.pufler.dev/years/PiyushKe)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/PiyushKe)](https://badges.pufler.dev)
 </p>
@@ -38,7 +38,6 @@ My Tech Stack :<p align = "center">
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 </p>
 
 ---
