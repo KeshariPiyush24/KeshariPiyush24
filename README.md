@@ -1,4 +1,7 @@
-# Hi 👋 I am Piyush!
+<h1 align="center">Hi 👋 I am Piyush!</h1>
+
+---
+
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>,currently I am in my 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
