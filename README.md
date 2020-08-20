@@ -7,7 +7,7 @@
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
 - :email: Email me <abbr title="piyushkeshari24@gmail.com"><a href="">here</a></abbr>
-
+---
 **To connect with me,**
 
 <p align = "center">
@@ -16,7 +16,7 @@
   <a href = "https://www.instagram.com/insane_banda/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=insane-banda&color=blue&style=flat&label=PROFILE+VIEWS"/a>
 </p>
-
+---
 **My Github Stats:**
 
 <br>
@@ -25,7 +25,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=PiyushKe&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKe&hide=css,html&theme=tokyonight">
 </p>
-
+---
 **My Tech Stack :**
 <p align = "center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
