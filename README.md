@@ -10,12 +10,9 @@ I am CS undergrad student at GLA university mathura,currently I am in my 2<sup>n
 To connect with me,
 
 <p align = "center">
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
-[![Years Badge](https://badges.pufler.dev/years/PiyushKe)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/PiyushKe)](https://badges.pufler.dev)
-[![Github_Followers](https://img.shields.io/github/followers/Piyushke.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Piyushke?tab=followers)
+[!<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/>](#)
+[!<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](#)
+[!<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](#)
 </p>
 
 ---
