@@ -8,7 +8,7 @@
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
 - :email: Email me <a href="mailto: piyushkeshari24@gmail.com">here</a>
-
+- :octocat: Fun fact I :heart: Dark Mode.
 ---
 
 **To connect with me,**
