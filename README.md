@@ -1,5 +1,5 @@
-## Hi 👋 I am Piyush!
-I am CS undergrad at GLA university mathura,currently I am in my 2<sup>nd</sup> year.
+# Hi 👋 I am Piyush!
+**I am CS undergrad at GLA university mathura,currently I am in my 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
@@ -7,7 +7,7 @@ I am CS undergrad at GLA university mathura,currently I am in my 2<sup>nd</sup> 
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://PiyushKe.github.io/) for complete background and contact.
 
-To connect with me,
+**To connect with me,**
 
 <p align = "center">
 <a href = "#"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
@@ -16,7 +16,7 @@ To connect with me,
 </p>
 
 ---
-My Github Stats: 
+**My Github Stats:**
 
 <br>
 
@@ -25,7 +25,8 @@ My Github Stats:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushKe&hide=css,html&theme=tokyonight">
 </p>
 
-My Tech Stack :<p align = "center">
+**My Tech Stack :**
+<p align = "center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
