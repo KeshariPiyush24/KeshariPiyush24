@@ -6,7 +6,7 @@
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
-- :email: Email me <abbr title="piyushkeshari24@gmail.com"><a href="">here</a></abbr>
+- :email: Email me <a href="mailto: piyushkeshari24@gmail.com">here</a>
 
 ---
 
