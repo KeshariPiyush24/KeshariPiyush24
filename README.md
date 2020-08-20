@@ -10,9 +10,6 @@ I am CS undergrad student at GLA university mathura,currently I am in my 2<sup>n
 To connect with me,
 
 <p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](#)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
@@ -52,36 +49,5 @@ My Tech Stack :<p align = "center">
 🌆 Daytime    144 commits    ███████░░░░░░░░░░░░░░░░░░   30.38% 
 🌃 Evening    168 commits    ████████░░░░░░░░░░░░░░░░░   35.44% 
 🌙 Night      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
-
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Wednesday    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Saturday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-💻 Operating Systems: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.0%
-
-```
-
-**I mostly code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         8 repos             ████████████████░░░░░░░░░   66.67% 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
