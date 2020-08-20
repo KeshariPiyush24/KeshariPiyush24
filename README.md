@@ -10,13 +10,12 @@
 **To connect with me,**
 
 <p align = "center">
-  <a href = "#"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
+  <a href = "insane-banda.github.io"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
   <a href = "https://www.linkedin.com/in/piyush-k-ba3a67134/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "https://www.instagram.com/insane_banda/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  ![](https://komarev.com/ghpvc/?username=insane-banda&color=blue&style=flat&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=insane-banda&color=blue&style=flat&label=PROFILE+VIEWS"/a>
 </p>
 
----
 **My Github Stats:**
 
 <br>
