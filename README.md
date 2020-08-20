@@ -13,6 +13,7 @@
 - :octocat: I :heart: Dark Mode
 - :zap: My favourite code editor is VS Code
 - :headphones: My favourite song is <a href="https://youtu.be/OmF1AY3sO9Q">Lauv - Modern Loneliness (Ritviz Remix)</a>
+- :eyes: What I watch on <a href="https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA">youtube</a>:question:
 - :dart: My ideal is **THE ROCK!!**
 ---
 **To connect with me,**
