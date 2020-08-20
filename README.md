@@ -1,5 +1,5 @@
 # Hi 👋 I am Piyush!
-**I am CS undergrad at GLA university mathura,currently I am in my 2<sup>nd</sup> year.**
+**I am CS undergrad at GLA University Mathura,currently I am in my 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
