@@ -1,5 +1,5 @@
 ## Hi 👋 I am Piyush!
-I am CS undergrad student at GLA university mathura,currently I am in my 2<sup>nd</sup> year.
+I am CS undergrad at GLA university mathura,currently I am in my 2<sup>nd</sup> year.
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
@@ -10,9 +10,9 @@ I am CS undergrad student at GLA university mathura,currently I am in my 2<sup>n
 To connect with me,
 
 <p align = "center">
-![<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/>](#)
-![<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](#)
-![<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](#)
+<a href = "#"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
+<a href = "https://www.linkedin.com/in/piyush-k-ba3a67134/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/insane_banda/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
