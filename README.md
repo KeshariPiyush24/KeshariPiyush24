@@ -1,16 +1,17 @@
 # Hi 👋 I am Piyush!
-**I am CS undergrad at GLA University Mathura,currently I am in my 2<sup>nd</sup> year.**
+**I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>,currently I am in my 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
+- :email: Email me <abbr title="piyushkeshari24@gmail.com"><a href="">here</a></abbr>
 
 **To connect with me,**
 
 <p align = "center">
-  <a href = "insane-banda.github.io"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
+  <a href = "https://insane-banda.github.io/"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
   <a href = "https://www.linkedin.com/in/piyush-k-ba3a67134/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "https://www.instagram.com/insane_banda/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=insane-banda&color=blue&style=flat&label=PROFILE+VIEWS"/a>
