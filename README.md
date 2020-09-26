@@ -32,8 +32,8 @@
 <p align="center">
   <a href="https://www.hackerrank.com/insane_banda"><img src="https://img.shields.io/badge/-HackerRank-2DA30F?style=for-the-badge"></a>
   <a href="https://www.datacamp.com/profile/insane-banda"><img src="https://img.shields.io/badge/-DataCamp-0BB7BF?style=for-the-badge"></a>
-  <a href="https://www.quora.com/profile/Piyush-Keshari-4"><img src="https://img.shields.io/badge/-Quora-AC0C0C?style=for-the-badge"></a>
   <a href="https://hyperskill.org/profile/3338661"><img src="https://img.shields.io/badge/-Hyperskill-000000?style=for-the-badge"></a>
+  <a href="https://www.quora.com/profile/Piyush-Keshari-4"><img src="https://img.shields.io/badge/-Quora-AC0C0C?style=for-the-badge"></a>
   <a href=""><img src="https://img.shields.io/badge/-Codechef-E68031?style=for-the-badge"></a>
   <a href="https://github.com/insane-banda"><img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge"></a>
 </p>
