@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Assets/Hi.gif" height="45px"> I am Piyush!</h1>
+<h1 align="center">Hi <img src="Assets/Hi.gif" height="37px"> I am Piyush!</h1>
 
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>,currently I am in 2<sup>nd</sup> year.**
 
