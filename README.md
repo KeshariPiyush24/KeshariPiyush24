@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="Assets/Hi.gif" height="32px"> I am Piyush!</h1>
 
-**I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>,currently I am in 2<sup>nd</sup> year.**
+**I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
@@ -56,12 +56,10 @@
 <p align = "center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20-%23AF9900.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20-%4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
-
----
