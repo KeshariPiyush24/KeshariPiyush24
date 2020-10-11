@@ -31,12 +31,12 @@
 
 **My _Developer_ Profiles:**
 <p align="center">
-  <a href="https://www.hackerrank.com/insane_banda"><img src="https://img.shields.io/badge/-HackerRank-2DA30F?style=for-the-badge"></a>
-  <a href="https://www.datacamp.com/profile/insane-banda"><img src="https://img.shields.io/badge/-DataCamp-34ABAC?style=for-the-badge"></a>
-  <a href="https://hyperskill.org/profile/3338661"><img src="https://img.shields.io/badge/-Hyperskill-000000?style=for-the-badge"></a>
-  <a href="https://www.quora.com/profile/Piyush-Keshari-4"><img src="https://img.shields.io/badge/-Quora-AC0C0C?style=for-the-badge"></a>
-  <a href="https://www.codechef.com/users/insane_banda"><img src="https://img.shields.io/badge/-Codechef-DE4040?style=for-the-badge"></a>
-  <a href="https://github.com/insane-banda"><img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge"></a>
+  <a href="https://www.hackerrank.com/insane_banda"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.datacamp.com/profile/insane-banda"><img src="https://img.shields.io/badge/-DataCamp-33AACC?style=for-the-badge&logo=DataCamp&logoColor=white"></a>
+  <a href="https://hyperskill.org/profile/3338661"><img src="https://img.shields.io/badge/-Hyperskill-000000?style=for-the-badge&logo=JetBrains&logoColor=white"></a>
+  <a href="https://www.quora.com/profile/Piyush-Keshari-4"><img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/insane_banda"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://github.com/insane-banda"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </p>
 
 ---
