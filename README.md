@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="Assets/Hi.gif" height="37px"> I am Piyush!</h1>
+<h1 align="center">Hi <img src="Assets/Hi.gif" height="32px"> I am Piyush!</h1>
 
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>,currently I am in 2<sup>nd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+- 👍 Looking for opportunities to join as an intern in machine learning projects.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
 - :email: Email me <a href="mailto: piyushkeshari24@gmail.com">here</a>
 ---
@@ -65,14 +65,3 @@
 </p>
 
 ---
-
-<!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-🌆 Daytime    144 commits    ███████░░░░░░░░░░░░░░░░░░   30.38% 
-🌃 Evening    168 commits    ████████░░░░░░░░░░░░░░░░░   35.44% 
-🌙 Night      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
-
-```
