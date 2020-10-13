@@ -37,6 +37,7 @@
   <a href="https://www.quora.com/profile/Piyush-Keshari-4"><img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white"></a>
   <a href="https://www.codechef.com/users/insane_banda"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
   <a href="https://github.com/insane-banda"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.coursera.org/user/46ecd5f9fc6ecb912107095351bcba5a"><img src="https://img.shields.io/badge/-Coursera-2A73CC?style=for-the-badge&logo=Coursera&logoColor=white"></a>
 </p>
 
 ---
