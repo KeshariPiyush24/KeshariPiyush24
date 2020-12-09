@@ -18,7 +18,7 @@
 - :headphones: My favourite song is <a href="https://youtu.be/OmF1AY3sO9Q">Lauv - Modern Loneliness (Ritviz Remix)</a>
 - :eyes: What I watch on <a href="https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA">youtube</a>:question:
 - :fire: My productivity <a href="https://www.youtube.com/playlist?list=PL-Nb4b-00lSC7G4DMrT-YxgVtR9MMgsRV">playlist</a>
-- :computer: My average typing speed is 50WPM
+- :computer: My average typing speed is 60WPM
 - <img src="Assets/Earth.gif" height="20px"> EARTH is <b>not</b> flat
 
 ---
