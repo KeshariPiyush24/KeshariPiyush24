@@ -23,7 +23,7 @@
 
 ---
 
-**To connect with me,**
+**Connect with me,**
 
 <p align = "center">
   <a href = "https://insane-banda.github.io/"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
@@ -71,3 +71,12 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=insane-banda&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=insane-banda&hide=css,html&theme=tokyonight">
 </p>
+
+<hr>
+<pre align=center>
+ __                                     __                   __        
+|__|.-----.-----.---.-.-----.-----.    |  |--.---.-.-----.--|  |.---.-.
+|  ||     |__ --|  _  |     |  -__|    |  _  |  _  |     |  _  ||  _  |
+|__||__|__|_____|___._|__|__|_____|____|_____|___._|__|__|_____||___._|
+                                |______|                              
+</pre>
