@@ -3,12 +3,10 @@
 **I am CS undergrad at <i>GLA UNIVERSITY MATHURA</i>, currently I am in 3<sup>rd</sup> year.**
 
 - 👨🏽‍💻 Currently learning data science, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern in machine learning projects.
 - 🌐 Visit my [porfolio website](https://insane-banda.github.io/) for complete background and contact.
 - :email: Email me <a href="mailto: piyushkeshari24@gmail.com">here</a>
-- <a href="https://youtu.be/gJ9BZ8_MetA">Pitch video</a>
+- <a href="https://youtu.be/gJ9BZ8_MetA">Pitch video for Springworks</a>
 ---
 
 **Some Facts about me**
