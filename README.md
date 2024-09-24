@@ -10,7 +10,6 @@ Aspiring Developer with a passion for competitive coding and problem-solving. I'
 
 - 😊 Willing to contribute in opensource and freelance projects.
 - :email: Email me <a href="mailto:piyushkeshari24@gmail.com">piyushkeshari24@gmail.com</a>
-- :phone: Call/Whatsapp me <a href="tel:+918543910622">+91-8543910622</a>
 - 🌐 Visit my [porfolio website](https://KeshariPiyush24.github.io/) for complete background and contact.
 
 ---
